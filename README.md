@@ -70,7 +70,7 @@ endmodule
 ![ex2 RTL](https://user-images.githubusercontent.com/93427923/164620603-8988279f-ac8a-4f81-b302-171942bc8331.png)
 
 ## Truthtable:
-![ex2 tt1](https://user-images.githubusercontent.com/93427923/164620773-0f42aa97-4efc-4cfa-95de-240b736e5b09.png)
+![ex2 tt1](https://user-images.githubusercontent.com/93427923/164625645-a7a8401e-48d8-456c-9a07-66b1d5c35df6.png)
 
 ### TIMING DIAGRAM:
 ![ex2 TD](https://user-images.githubusercontent.com/93427923/164621365-e999f4fe-790d-40c9-8e32-5fc031f5bc08.png)
