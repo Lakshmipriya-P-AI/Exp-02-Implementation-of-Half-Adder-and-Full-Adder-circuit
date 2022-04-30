@@ -31,9 +31,9 @@ Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin Carry = A
 
 ### Procedure
 
-Connect the supply (+5V) to the circuit
-Switch ON the main switch
-If the output is 1, then the led glows.
+1. Connect the supply (+5V) to the circuit
+2. Switch ON the main switch
+3. If the output is 1, then the led glows.
 
 ### Program:
 ```
@@ -84,7 +84,7 @@ endmodule
 ![ex2 r](https://user-images.githubusercontent.com/93427923/164622157-0b4b602f-f342-49ed-b300-2cbcddbd15a8.png)
 
 ### TRUTH TABLE 
-![ex2 tt](https://user-images.githubusercontent.com/93427923/164623901-4f40776f-20c7-4ef7-9568-2bbf80e8340f.png)
+![faddtable](https://user-images.githubusercontent.com/93427923/166094150-70e8e282-c877-4f04-b93a-098911eea44c.png)
 
 ### TIMING DIAGRAM:
 ![190f57e3-5d31-4ee2-a0a4-4ce3f64ec238](https://user-images.githubusercontent.com/93427923/166093964-8010a5f2-d46a-4f92-a1b5-803336bb3601.jpg)
